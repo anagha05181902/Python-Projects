@@ -1,0 +1,12 @@
+number_1 = 10
+number_2 = 20
+sum = number_1 + number_2
+difference = number_2 - number_1
+product = number_2 * number_1
+quotient = number_2 / number_1
+remainder = number_2 % number_1
+print("Sum = ",sum)
+print("Difference = ",difference)
+print("Product = ",product)
+print("Quotient = ",quotient)
+print("Remainder = ",remainder)
